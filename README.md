@@ -31,7 +31,9 @@ This repository includes following files:
 
 • 
 
-**REFERENCES :**
+**REFERENCES :** That I used some exercises.
 
 [https://www.programiz.com/python-programming/datetime/strptime] 
+
+[https://numpy.org/doc/stable/reference/generated/numpy.set_printoptions.html]
 
