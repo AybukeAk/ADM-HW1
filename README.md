@@ -11,7 +11,7 @@ This repository includes following files:
 
 #### In this homework, below exercises completed:
 
-**> PROBLEM 1.**
+**> PROBLEM 1**
 
 • Introduction
 
