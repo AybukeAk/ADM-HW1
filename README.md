@@ -32,5 +32,6 @@ This repository includes following files:
 • 
 
 **REFERENCES :**
-https://www.programiz.com/python-programming/datetime/strptime
+
+[I'm an inline-style link] https://www.programiz.com/python-programming/datetime/strptime
 
