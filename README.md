@@ -5,7 +5,7 @@ This repository includes following files:
 
 > **README.md :** a Markdown file that explains the content of ADM-HW1 repository.
 
-> **scripts.py :** a .py file that contains any solution of the exercise I completed. 
+> **scripts.py :** a .py file that contains solutions of the exercises that I completed. 
 
 > **stamps/ :** a folder that contains all the screenshot that assess the successful exercises I did. 
 
