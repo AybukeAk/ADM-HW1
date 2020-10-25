@@ -12,12 +12,19 @@ This repository includes following files:
 ####In this homework below exercises completed:
 
 >PROBLEM 1.
+
 -• Introduction.
+
 -• Data types.
+
 -• Strings.
+
 -• Date and Time.
+
 -• Exceptions.
+
 -• Python Functionals.
+
 -• Numpy.
 
 >PROBLEM 2.
