@@ -13,21 +13,18 @@ This repository includes following files:
 
 >PROBLEM 1.
 
--• Introduction.
+-• Introduction
+-• Data types
+-• Strings
+-• Date and Time
 
--• Data types.
+-• Exceptions
 
--• Strings.
+-• Python Functionals
 
--• Date and Time.
+-• Numpy
 
--• Exceptions.
-
--• Python Functionals.
-
--• Numpy.
-
->PROBLEM 2.
+>PROBLEM 2
 -• 
 
 
