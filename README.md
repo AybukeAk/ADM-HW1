@@ -44,6 +44,9 @@ This repository includes following files:
 **REFERENCES :** That I used some exercises.
 
 [https://numpy.org/doc/stable/reference/generated/numpy.set_printoptions.html]
+
 [https://docs.python.org/3/library/calendar.html]
+
 [https://www.programiz.com/python-programming/datetime/strptime] 
+
 [https://www.programiz.com/python-programming/methods/built-in/hash#:~:text=The%20hash()%20method%20returns,by%20default%20for%20any%20object]
