@@ -35,7 +35,7 @@ This repository includes following files:
 
 • Closures and Decorations 
 
-• Sets 
+• Numpy
 
 
 **> PROBLEM 2**
