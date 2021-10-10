@@ -29,6 +29,15 @@ This repository includes following files:
 
 • Sets  
 
+• Regex and Parsing challenges 
+
+• XML 
+
+• Closures and Decorations 
+
+• Sets 
+
+
 **> PROBLEM 2**
 
 • Birthday Cake Candles
