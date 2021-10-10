@@ -27,7 +27,7 @@ This repository includes following files:
 
 • Numpy
 
-• Sets (First 4 exercises) 
+• Sets  
 
 **> PROBLEM 2**
 
